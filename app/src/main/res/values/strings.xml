@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MapsFoodAPI</string>
+    <string name="action_settings">Settings</string>
+    <string name="drawer_open">open</string>
+    <string name="drawer_close">close</string>
+    <string name="google_maps_key">AIzaSyAP_lX01UK7Pih200_bCNIUtMdfm_bl2kA</string>
+</resources>
